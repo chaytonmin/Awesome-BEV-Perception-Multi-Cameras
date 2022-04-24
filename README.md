@@ -29,4 +29,4 @@ Welcome to contribute to this Repo!
 
 ### Update: WeChat Group
 
-<img src="/photo/WeChat_Group.jpg" width=270 height=585>
+<img src="/photo/WeChat_Group.jpg" width=270 height=270>
