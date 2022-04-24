@@ -1,5 +1,8 @@
 # Awesome BEV Perception from Multi-Cameras
 
+<img src="/photo/petr.png" width=300 height=600>
+
+
 #### ECCV 2020
 
   + Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
