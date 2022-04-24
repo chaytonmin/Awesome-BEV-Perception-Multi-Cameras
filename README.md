@@ -1,6 +1,6 @@
 # Awesome BEV Perception from Multi-Cameras
 
-<img src="/photo/petr.png" width=300 height=600>
+<img src="/photo/petr.png" width=600 height=300>
 
 
 #### ECCV 2020
