@@ -1,4 +1,4 @@
-# Awesome Multi-Camera 3D Object Detection and Segmentation in Bird-Eye-View
+# Awesome BEV Perception from Multi-Cameras
 
 #### ECCV 2020
 
