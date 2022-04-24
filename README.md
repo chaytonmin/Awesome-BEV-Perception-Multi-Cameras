@@ -1,5 +1,4 @@
-# Awesome-BEV-Perception-Multi-Cameras
-## Awesome-BEV-Perception-Multi-Cameras
+# Awesome Multi-Camera 3D Object Detection and Segmentation in Bird-Eye-View
 
 #### ECCV 2020
 
