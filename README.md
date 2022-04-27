@@ -15,7 +15,7 @@
 
 + BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View  [[paper](https://arxiv.org/pdf/2112.11790.pdf)] [[Github](https://github.com/HuangJunJie2017/BEVDet)] 
 + BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection [[paper](https://arxiv.org/abs/2203.17054)]
-+ Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection
++ Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection [[paper](https://arxiv.org/abs/2204.11582)]
 + PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2203.05625.pdf)]
 + BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers [[paper](https://arxiv.org/abs/2203.17270)] [[Github](https://github.com/zhiqi-li/BEVFormer)] 
 + M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
