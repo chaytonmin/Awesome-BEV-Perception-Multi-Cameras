@@ -11,6 +11,9 @@
 
 + DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://proceedings.mlr.press/v164/wang22b.html)] [[Github](https://github.com/WangYueFt/detr3d)] 
 
+#### ICCV 2021
++ FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras [[paper](https://arxiv.org/abs/2104.10490)] [[Github](https://github.com/wayveai/fiery)] 
+
 #### CVPR 2022
 + CVT: Cross-view Transformers for real-time Map-view Semantic Segmentation [[paper](http://www.philkr.net/media/zhou2022crossview.pdf)] [[Github](https://github.com/bradyz/cross_view_transformers)] 
 
