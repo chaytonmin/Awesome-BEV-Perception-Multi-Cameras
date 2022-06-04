@@ -31,6 +31,8 @@
 #### Multi-sensor fusion
 
 + FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/abs/2203.10642)] 
++ BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
++ Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
 + BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
 
 ### [nuScenes detection task Leaderboard](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera)
