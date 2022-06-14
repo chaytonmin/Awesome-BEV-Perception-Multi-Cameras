@@ -23,6 +23,7 @@
 + BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection [[paper](https://arxiv.org/abs/2203.17054)]
 + Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection [[paper](https://arxiv.org/abs/2204.11582)]
 + PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2203.05625.pdf)][[Github]( https://github.com/megvii-research/PETR)]
++ PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images [[paper](https://arxiv.org/abs/2206.01256)][[Github](https://github.com/megvii-research/PETR)]
 + BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers [[paper](https://arxiv.org/abs/2203.17270)] [[Github](https://github.com/zhiqi-li/BEVFormer)] 
 + M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
 + BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
