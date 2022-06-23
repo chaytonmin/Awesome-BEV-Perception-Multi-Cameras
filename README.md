@@ -28,6 +28,7 @@
 + M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
 + BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
++ BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)]
 
 #### Multi-sensor fusion
 
@@ -35,6 +36,8 @@
 + BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
 + Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
 + BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
+
+#### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
 + Voxel Field Fusion for 3D Object Detection [[paper](https://arxiv.org/abs/2205.15938)] [[Github](https://github.com/dvlab-research/VFF)]
 + Scaling up Kernels in 3D CNNs [[paper](https://arxiv.org/abs/2206.10555)] [[Github](https://github.com/dvlab-research/LargeKernel3D)]
