@@ -17,6 +17,9 @@
 #### CVPR 2022
 + CVT: Cross-view Transformers for real-time Map-view Semantic Segmentation [[paper](http://www.philkr.net/media/zhou2022crossview.pdf)] [[Github](https://github.com/bradyz/cross_view_transformers)] 
 
+#### ICRA 2022 
++ Translating Images into Maps [[paper](https://arxiv.org/pdf/2110.00966.pdf)][[Github](https://github.com/avishkarsaha/translating-images-into-maps)]
+
 #### ACMM 2022
 + Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection [[paper](https://arxiv.org/abs/2204.11582)]
 
