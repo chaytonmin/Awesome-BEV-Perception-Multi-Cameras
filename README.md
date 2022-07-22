@@ -34,7 +34,7 @@
 + BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
-+ BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)]
++ BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 
 #### Multi-sensor fusion
 
