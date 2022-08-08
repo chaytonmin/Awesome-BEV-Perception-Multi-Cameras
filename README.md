@@ -26,6 +26,8 @@
 #### ECCV 2022
 + BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers [[paper](https://arxiv.org/abs/2203.17270)] [[Github](https://github.com/zhiqi-li/BEVFormer)] 
 + PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2203.05625.pdf)][[Github]( https://github.com/megvii-research/PETR)]
++ ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning [[paper](https://arxiv.org/abs/2207.07601)][[Github]( https://github.com/OpenPerceptionX/ST-P3)]
+
 #### Arxiv 2022
 + BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View  [[paper](https://arxiv.org/pdf/2112.11790.pdf)] [[Github](https://github.com/HuangJunJie2017/BEVDet)] 
 + BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection [[paper](https://arxiv.org/abs/2203.17054)]
