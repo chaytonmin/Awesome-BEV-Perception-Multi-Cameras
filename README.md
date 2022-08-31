@@ -37,6 +37,8 @@
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
 + BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
++ BEVStereo [[paper](xxx)][[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
++ STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
 #### Multi-sensor fusion
 
