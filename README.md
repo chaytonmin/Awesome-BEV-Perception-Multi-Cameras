@@ -28,16 +28,19 @@
 + PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2203.05625.pdf)][[Github]( https://github.com/megvii-research/PETR)]
 + ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning [[paper](https://arxiv.org/abs/2207.07601)][[Github]( https://github.com/OpenPerceptionX/ST-P3)]
 
+#### WACV 2023
++ BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
+
 #### Arxiv 2022
 + BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View  [[paper](https://arxiv.org/pdf/2112.11790.pdf)] [[Github](https://github.com/HuangJunJie2017/BEVDet)] 
 + BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection [[paper](https://arxiv.org/abs/2203.17054)]
 + PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images [[paper](https://arxiv.org/abs/2206.01256)][[Github](https://github.com/megvii-research/PETR)]
 + M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
-+ BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
++ PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
 + BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
-+ BEVStereo [[paper](xxx)][[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
++ BEVStereo [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
 #### Multi-sensor fusion
