@@ -43,7 +43,8 @@
 + BEVStereo [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
-#### Vectorized HD Map Construction
+#### HD Map Construction
++ HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
 + MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
 
 
