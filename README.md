@@ -43,16 +43,19 @@
 + BEVStereo [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
-#### Multi-sensor fusion
+#### Vectorized HD Map Construction
++ MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
 
+
+#### Multi-sensor fusion
 + FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/abs/2203.10642)]  [[Github](https://github.com/Tsinghua-MARS-Lab/futr3d)]
 + BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
 + Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
 + BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
 
 #### Survey
-
 + Vision-Centric BEV Perception: A Survey [[paper](https://arxiv.org/pdf/2208.02797.pdf)]  [[Github](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
++ BEVPerception-Survey-Recipe [[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]
 
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
