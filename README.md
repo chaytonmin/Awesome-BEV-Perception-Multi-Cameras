@@ -29,7 +29,7 @@
 + ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning [[paper](https://arxiv.org/abs/2207.07601)][[Github]( https://github.com/OpenPerceptionX/ST-P3)]
 
 #### CoRL 2022
-+ LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation [[paper](https://arxiv.org/abs/2206.13294)]
++ LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation [[paper](https://arxiv.org/abs/2206.13294)] [[Github](https://github.com/valeoai/LaRa)]
 
 #### WACV 2023
 + BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs [[paper](https://arxiv.org/abs/2203.04050)] 
