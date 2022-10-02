@@ -27,6 +27,7 @@
 + BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers [[paper](https://arxiv.org/abs/2203.17270)] [[Github](https://github.com/zhiqi-li/BEVFormer)] 
 + PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2203.05625.pdf)][[Github]( https://github.com/megvii-research/PETR)]
 + ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning [[paper](https://arxiv.org/abs/2207.07601)][[Github]( https://github.com/OpenPerceptionX/ST-P3)]
++ SpatialDETR: Robust Scalable Transformer-Based 3D Object Detection from Multi-View Camera Images with Global Cross-Sensor Attention[[paper](https://markus-enzweiler.de/downloads/publications/ECCV2022-spatial_detr.pdf)] [[Github](https://github.com/cgtuebingen/SpatialDETR)]
 
 #### CoRL 2022
 + LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation [[paper](https://arxiv.org/abs/2206.13294)] [[Github](https://github.com/valeoai/LaRa)]
@@ -42,8 +43,12 @@
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
 + PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
++ CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
++ Real4d [[Github](https://github.com/linxuewu/Real4d)]
++ Inspur-MASTER-3D [[Github](https://github.com/Inspur-Autodrive/Inspur-MASTER-3D)]
 + BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
-+ BEVStereo [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
++ A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
++ BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
 #### HD Map Construction
