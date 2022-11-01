@@ -44,12 +44,11 @@
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
 + PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
 + CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
-+ Real4d [[Github](https://github.com/linxuewu/Real4d)]
-+ Inspur-MASTER-3D [[Github](https://github.com/Inspur-Autodrive/Inspur-MASTER-3D)]
 + BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 + A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
 + BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
++ Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection  [[paper](https://arxiv.org/abs/2210.02443)][[Github](https://github.com/Divadi/SOLOFusion)]
 
 #### HD Map Construction
 + HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
@@ -64,7 +63,7 @@
 
 #### Survey
 + Vision-Centric BEV Perception: A Survey [[paper](https://arxiv.org/pdf/2208.02797.pdf)]  [[Github](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
-+ BEVPerception-Survey-Recipe [[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]
++ Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe [[paper](https://arxiv.org/abs/2209.05324)][[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]
 
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
