@@ -46,9 +46,13 @@
 + CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
 + BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 + A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
++ BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision [[paper](https://arxiv.org/abs/2211.10439)]
++ AeDet: Azimuth-invariant Multi-view 3D Object Detection [[paper](https://arxiv.org/abs/2211.12501)] [[Github](https://github.com/fcjian/AeDet)]
+
+#### BEV + Stereo
 + BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
-+ STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 + Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection  [[paper](https://arxiv.org/abs/2210.02443)][[Github](https://github.com/Divadi/SOLOFusion)]
++ STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
 #### HD Map Construction
 + HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
