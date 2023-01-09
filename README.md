@@ -65,10 +65,14 @@
 + Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
 + BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
 + aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception [[paper](https://arxiv.org/pdf/2211.09445)] [[Github](https://github.com/aimotive/aimotive_dataset)]
++ Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection [[paper](https://arxiv.org/pdf/2301.01283.pdf)] [[Github](https://github.com/junjie18/CMT)]
 
 #### Survey
 + Vision-Centric BEV Perception: A Survey [[paper](https://arxiv.org/pdf/2208.02797.pdf)]  [[Github](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
 + Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe [[paper](https://arxiv.org/abs/2209.05324)][[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]
+
+#### Occupancy Network
++ TPVFormer: An academic alternative to Tesla's Occupancy Network [[Github](https://github.com/wzzheng/TPVFormer)]
 
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
