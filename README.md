@@ -74,6 +74,9 @@
 #### Occupancy Network
 + TPVFormer: An academic alternative to Tesla's Occupancy Network [[Github](https://github.com/wzzheng/TPVFormer)]
 
+#### Pre-training
++ Voxel-MAE: Masked Autoencoders for Self-supervised Pre-training Large-scale Point Clouds [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Voxel-MAE)]
+
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
 + Voxel Field Fusion for 3D Object Detection [[paper](https://arxiv.org/abs/2205.15938)] [[Github](https://github.com/dvlab-research/VFF)]
