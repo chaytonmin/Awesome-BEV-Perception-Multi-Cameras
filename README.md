@@ -44,23 +44,27 @@
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
 + PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
 + CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
-+ BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
++ AAAI 2023 BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 + A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
 + BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision [[paper](https://arxiv.org/abs/2211.10439)]
 + AeDet: Azimuth-invariant Multi-view 3D Object Detection [[paper](https://arxiv.org/abs/2211.12501)] [[Github](https://github.com/fcjian/AeDet)]
 
 #### BEV + Stereo
-+ BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
++ AAAI 2023 BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
 + Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection  [[paper](https://arxiv.org/abs/2210.02443)][[Github](https://github.com/Divadi/SOLOFusion)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
+
+#### BEV + Distillation 
++ ICLR 2023 BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection [[paper](https://arxiv.org/pdf/2211.09386.pdf)] [[Github](https://github.com/zehuichen123/BEVDistill)]
++ TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning [[paper](https://arxiv.org/pdf/2212.13979.pdf)][[Github](https://github.com/ADLab3Ds/TiG-BEV)]
 
 #### BEV + Fast
 + Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline [[paper](https://arxiv.org/abs/2301.12511)] [[Github](https://github.com/Sense-GVT/Fast-BEV)]
 + MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception  [[paper](https://arxiv.org/abs/2211.10593)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 
 #### HD Map Construction
-+ HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
-+ MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
++ ICRA 2022 HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
++ ICLR 2023 MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
 
 
 #### Multi-sensor fusion
