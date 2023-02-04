@@ -54,6 +54,10 @@
 + Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection  [[paper](https://arxiv.org/abs/2210.02443)][[Github](https://github.com/Divadi/SOLOFusion)]
 + STS: Surround-view Temporal Stereo for Multi-view 3D Detection [[paper](https://arxiv.org/abs/2208.10145)]
 
+#### BEV + Fast
++ Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline [[paper](https://arxiv.org/abs/2301.12511)] [[Github](https://github.com/Sense-GVT/Fast-BEV)]
++ MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception  [[paper](https://arxiv.org/abs/2211.10593)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
+
 #### HD Map Construction
 + HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
 + MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
