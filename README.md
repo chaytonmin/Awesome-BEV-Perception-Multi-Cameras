@@ -4,11 +4,9 @@
 
 
 #### ECCV 2020
-
 + Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
 
 #### CoRL 2021
-
 + DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://proceedings.mlr.press/v164/wang22b.html)] [[Github](https://github.com/WangYueFt/detr3d)] 
 
 #### ICCV 2021
@@ -42,7 +40,7 @@
 + M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation [[paper](https://arxiv.org/abs/2204.05088)] 
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
-+ PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
++ (AAAI 2023) PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
 + CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
 + (AAAI 2023) BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 + A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
@@ -64,26 +62,30 @@
 
 #### HD Map Construction
 + (ICRA 2022) HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
-+ ICLR 2023 MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
++ (ICLR 2023) MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
 
 
 #### Multi-sensor fusion
 + FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/abs/2203.10642)]  [[Github](https://github.com/Tsinghua-MARS-Lab/futr3d)]
-+ BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
-+ Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
++ (NeurIPS 2022) BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
++ (NeurIPS 2022) Unifying Voxel-based Representation with Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2206.00630.pdf)] [[Github](https://github.com/dvlab-research/UVTR)]
 + BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [[paper](https://bevfusion.mit.edu/)] [[Github](https://github.com/mit-han-lab/bevfusion)]
-+ aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception [[paper](https://arxiv.org/pdf/2211.09445)] [[Github](https://github.com/aimotive/aimotive_dataset)]
-+ Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection [[paper](https://arxiv.org/pdf/2301.01283.pdf)] [[Github](https://github.com/junjie18/CMT)]
++ CMT: Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection [[paper](https://arxiv.org/pdf/2301.01283.pdf)] [[Github](https://github.com/junjie18/CMT)]
 
 #### Survey
 + Vision-Centric BEV Perception: A Survey [[paper](https://arxiv.org/pdf/2208.02797.pdf)]  [[Github](https://github.com/4DVLab/Vision-Centric-BEV-Perception)]
 + Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe [[paper](https://arxiv.org/abs/2209.05324)][[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]
+
 
 #### Occupancy Network
 + TPVFormer: An academic alternative to Tesla's Occupancy Network [[Github](https://github.com/wzzheng/TPVFormer)]
 
 #### Pre-training
 + Voxel-MAE: Masked Autoencoders for Self-supervised Pre-training Large-scale Point Clouds [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Voxel-MAE)]
++ BEV-MAE: Bird's Eye View Masked Autoencoders for Outdoor Point Cloud Pre-training[[paper](https://arxiv.org/abs/2212.05758)][[Github](https://github.com/VDIGPKU/BEV-MAE)]
+
+#### BEV + Dataset
++ aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception [[paper](https://arxiv.org/pdf/2211.09445)] [[Github](https://github.com/aimotive/aimotive_dataset)]
 
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
