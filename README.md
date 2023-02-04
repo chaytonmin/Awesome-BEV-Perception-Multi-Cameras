@@ -4,7 +4,7 @@
 
 
 #### ECCV 2020
-+ Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
++ LSS: Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
 
 #### CoRL 2021
 + DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://proceedings.mlr.press/v164/wang22b.html)] [[Github](https://github.com/WangYueFt/detr3d)] 
