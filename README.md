@@ -9,6 +9,9 @@
 #### CoRL 2021
 + DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://proceedings.mlr.press/v164/wang22b.html)] [[Github](https://github.com/WangYueFt/detr3d)] 
 
+#### CVPR 2021
++ CaDDN:Categorical Depth Distribution Network for Monocular 3D Object Detection [[paper](https://arxiv.org/abs/2103.01100)] [[Github](https://github.com/TRAILab/CaDDN)] 
+
 #### ICCV 2021
 + FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras [[paper](https://arxiv.org/abs/2104.10490)] [[Github](https://github.com/wayveai/fiery)] 
 
