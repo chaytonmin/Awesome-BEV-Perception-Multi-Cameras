@@ -44,11 +44,11 @@
 + BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving [[paper](https://arxiv.org/abs/2205.09743v1)] [[Github](https://github.com/zhangyp15/BEVerse)]
 + PolarDETR: Polar Parametrization for Vision-based Surround-View 3D Detection[[paper](https://arxiv.org/abs/2206.10965)] [[Github](https://github.com/hustvl/PolarDETR)]
 + (AAAI 2023) PolarFormer: Multi-camera 3D Object Detection with Polar Transformers[[paper](https://arxiv.org/abs/2206.15398)] [[Github](https://github.com/fudan-zvg/PolarFormer)]
-+ CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
++ (ICRA 2023) CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection[[paper](https://arxiv.org/abs/2209.13507)] [[Github](https://github.com/sty61010/CrossDTR)]
 + (AAAI 2023) BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection [[paper](https://arxiv.org/pdf/2206.10092v1.pdf)][[Github](https://github.com/Megvii-BaseDetection/BEVDepth)]
 + A Simple Baseline for BEV Perception Without LiDAR [[paper](https://arxiv.org/abs/2206.07959)] [[Github](https://github.com/aharley/simple_bev)]
 + BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision [[paper](https://arxiv.org/abs/2211.10439)]
-+ AeDet: Azimuth-invariant Multi-view 3D Object Detection [[paper](https://arxiv.org/abs/2211.12501)] [[Github](https://github.com/fcjian/AeDet)]
++ AeDet: Azimuth-invariant Multi-view 3D Object Detection [[paper](https://arxiv.org/abs/2211.12501)] [[Github](https://github.com/fcjian/AeDet)
 
 #### BEV + Stereo
 + (AAAI 2023) BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
