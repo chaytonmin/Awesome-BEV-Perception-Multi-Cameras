@@ -71,7 +71,6 @@
 + (ICRA 2022) HDMapNet: An Online HD Map Construction and Evaluation Framework [[paper](https://tsinghua-mars-lab.github.io/HDMapNet/)]  [[Github](https://github.com/Tsinghua-MARS-Lab/HDMapNet)]
 + (ICLR 2023) MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction [[paper](https://arxiv.org/abs/2208.14437)]  [[Github](https://github.com/hustvl/MapTR)]
 
-
 #### Multi-sensor fusion
 + FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/abs/2203.10642)]  [[Github](https://github.com/Tsinghua-MARS-Lab/futr3d)]
 + (NeurIPS 2022) BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework [[paper](https://arxiv.org/abs/2205.13790)] [[Github](https://github.com/ADLab-AutoDrive/BEVFusion)]
@@ -88,8 +87,8 @@
 + TPVFormer: An academic alternative to Tesla's Occupancy Network [[Github](https://github.com/wzzheng/TPVFormer)]
 
 #### Pre-training
-+ Voxel-MAE: Masked Autoencoders for Self-supervised Pre-training Large-scale Point Clouds [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Voxel-MAE)]
-+ BEV-MAE: Bird's Eye View Masked Autoencoders for Outdoor Point Cloud Pre-training[[paper](https://arxiv.org/abs/2212.05758)][[Github](https://github.com/VDIGPKU/BEV-MAE)]
++ Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/Occ-BEV)]
++ Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Occupancy-MAE)]
 
 #### BEV + Dataset
 + aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception [[paper](https://arxiv.org/pdf/2211.09445)] [[Github](https://github.com/aimotive/aimotive_dataset)]
