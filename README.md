@@ -50,6 +50,7 @@
 + VideoBEV: Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception [[paper](https://arxiv.org/pdf/2303.05970.pdf)]
 + HoP: Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction [[paper](https://arxiv.org/abs/2304.00967)]
 + StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection [[paper](https://arxiv.org/abs/2303.11926)][[Github](https://github.com/exiawsh/StreamPETR)]
++ SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos [[paper](https://arxiv.org/abs/2308.09244)][[Github](https://github.com/MCG-NJU/SparseBEV)]
 
 #### BEV + Stereo
 + (AAAI 2023) BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo [[paper](https://arxiv.org/abs/2209.10248)] [[Github](https://github.com/Megvii-BaseDetection/BEVStereo)]
