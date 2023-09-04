@@ -92,11 +92,9 @@
 + TPVFormer: An academic alternative to Tesla's Occupancy Network [[Github](https://github.com/wzzheng/TPVFormer)]
 
 #### Pre-training
++ UniWorld: Autonomous Driving Pre-training via World Models [[paper](https://arxiv.org/abs/2308.07234)][[github](https://github.com/chaytonmin/UniWorld)]
 + Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/Occ-BEV)]
 + Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Occupancy-MAE)]
-
-#### BEV + Dataset
-+ aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception [[paper](https://arxiv.org/pdf/2211.09445)] [[Github](https://github.com/aimotive/aimotive_dataset)]
 
 #### others
 + Focal Sparse Convolutional Networks for 3D Object Detection [[paper](https://arxiv.org/abs/2204.12463)] [[Github](https://github.com/dvlab-research/FocalsConv)]
