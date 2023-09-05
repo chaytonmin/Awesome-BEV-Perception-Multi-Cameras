@@ -2,6 +2,7 @@
 
 <img src="/photo/PETR.png" width="100%"/>
 
+#### 欢迎加我微信i1231231，进BEV感知交流群！
 
 #### ECCV 2020
 + LSS: Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D [[paper](https://arxiv.org/pdf/2008.05711.pdf)] [[Github](https://github.com/nv-tlabs/lift-splat-shoot)] 
